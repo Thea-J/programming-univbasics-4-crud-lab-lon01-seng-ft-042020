@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  
+  destinys_child = ["Beyonce","Kelly","Michelle","Farrah"]
 end
 
 def add_element_to_end_of_array(array, element)
